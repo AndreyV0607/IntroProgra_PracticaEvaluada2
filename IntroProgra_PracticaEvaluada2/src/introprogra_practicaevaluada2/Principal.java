@@ -8,7 +8,6 @@ package introprogra_practicaevaluada2;
  *
  * @author andreyvargassolis
  */
-// Clase Principal.java
 import javax.swing.*;
 
 

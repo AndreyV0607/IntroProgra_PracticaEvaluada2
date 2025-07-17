@@ -33,7 +33,7 @@ public class Producto {
     }
 
     //funcion para calcular precio bruto
-    double calcularPrecioBruto() {
+    public double calcularPrecioBruto() {
         switch (tipoProducto.toLowerCase()) {
             case "alimentos":
                 return precioBase * 0.20 + precioBase;
